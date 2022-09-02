@@ -1,5 +1,6 @@
 # Multi-thread-word-search
 One of the university projects we had as homework.
+Original project text is in the "OS Domaci 4" file.
 
 The program can search for words while simultaneously getting imput from the user.
 The user can write a prefix that they want to be searched for and will slowly get new words poped on the screen
